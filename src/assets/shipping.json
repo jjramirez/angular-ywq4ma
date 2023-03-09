@@ -4,6 +4,10 @@
     "price": 25.99
   },
   {
+    "type": "Next Day",
+    "price": 15.99
+  },
+  {
     "type": "2-Day",
     "price": 9.99
   },
